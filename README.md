@@ -34,3 +34,14 @@ Based on the application source code provided, prepare a scalable solution based
   * Retrieving information about the deployed tag on the kubernetes cluster
   * Forward port 8080 directly from a Kubernetes-based application deployment
   * Complete local environment building
+
+## Additional information
+The organisation for which we are carrying out a project using tools such as:
+* kustomize
+* helm
+* argocd
+* google kms
+* google secrets manager
+* terraform
+* terragrunt
+* gke
